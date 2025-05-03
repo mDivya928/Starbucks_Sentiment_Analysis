@@ -45,7 +45,7 @@ Starbucks_Sentiment_Analysis/
 
 ## 📷 Demo
 
-![Dashboard Screenshot](dashboard/static/screenshot.png)
+![Dashboard Screenshot](dashboard/screenshot.png)
 
 ---
 
